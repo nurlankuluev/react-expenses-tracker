@@ -5,6 +5,18 @@ import React, { useState } from "react";
 
 const SAMPLE_EXPENSES = [
   {
+    id: "e13",
+    title: "Jacket",
+    amount: 123.12,
+    date: new Date(2022, 7, 14),
+  },
+  {
+    id: "e12",
+    title: "lavash",
+    amount: 94.12,
+    date: new Date(2022, 10, 14),
+  },
+  {
     id: "e1",
     title: "Toilet Paper",
     amount: 94.12,
